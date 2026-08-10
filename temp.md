@@ -36,3 +36,10 @@
     "**/target": true,
     "**/target/generated-sources": false
 }
+
+
+{
+  "java.jdt.ls.vmargs": "-Xmx3G -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Xlog:disable",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.sharedIndexes.enabled": "auto"
+}
