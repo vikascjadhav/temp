@@ -28,3 +28,11 @@
         "**/node_modules": true
     }
 }
+
+
+
+
+"search.exclude": {
+    "**/target": true,
+    "**/target/generated-sources": false
+}
